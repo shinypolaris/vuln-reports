@@ -49,3 +49,5 @@ Connection: close
 ```
 
 ![image-20231028054422613](uploads/image-20231028054422613.png)
+
+## CVE-2023-46977

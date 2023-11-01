@@ -81,3 +81,5 @@ and then pass to `CsteSystem` function,
 and then lead to command injection.
 
 ![image-20231029020413159](uploads/image-20231029020413159.png)
+
+## CVE-2023-46979

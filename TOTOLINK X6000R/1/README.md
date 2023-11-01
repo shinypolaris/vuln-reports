@@ -59,3 +59,5 @@ Connection: close
 ![image-20231028115754113](uploads/image-20231028115754113.png)
 
 ![image-20231028115832823](uploads/image-20231028115832823.png)
+
+## CVE-2023-46978

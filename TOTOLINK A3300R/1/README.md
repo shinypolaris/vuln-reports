@@ -77,3 +77,5 @@ Connection: close
 `CsteSystem` wraps the command and then passes it to execv to execute the command.
 
 ![ana3](uploads/6.jpg)
+
+## CVE-2023-46976
